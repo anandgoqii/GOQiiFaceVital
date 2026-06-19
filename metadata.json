@@ -1,0 +1,10 @@
+{
+  "name": "GOQii Health Companion",
+  "description": "An interactive wellness ecosystem with automated health assessments, AI face scans, questionnaire analysis, and real-time support from your personal health coach.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
